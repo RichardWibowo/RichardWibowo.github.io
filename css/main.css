@@ -2095,7 +2095,7 @@ header .logo a {
  * ------------------------------------------------------------------- 
  */
 #services {
-	background: #313131 url(../images/bg.jpg) no-repeat center;
+	background: #313131 url(../images/40035_anime_scenery_anime_city_scenery\(1\).jpg) repeat-y center;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	background-size: cover;
@@ -2552,7 +2552,7 @@ footer .copyright span:last-child::after {
 		margin-bottom: 1.5rem;
 	}
 	footer .copyright span {
-		display: block;
+		display: none;
 	}
 	footer .copyright span::after {
 		display: none;
