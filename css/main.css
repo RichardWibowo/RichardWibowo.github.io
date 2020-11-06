@@ -1899,13 +1899,13 @@ header .logo a {
 	margin: 0 auto;
 }
 .popup-modal .media {
-	position: relative;
+	position: static;
 }
 .popup-modal img {
-	vertical-align: bottom;
+	vertical-align: middle;
 }
 .popup-modal .description-box {
-	padding: 1.8rem 3.6rem 3rem;
+	padding: 1.8rem 3rem 3rem;
 }
 .popup-modal .description-box h4 {
 	font-family: "poppins-bold", sans-serif;
@@ -1973,7 +1973,7 @@ header .logo a {
 
 /* overlay at start */
 .mfp-fade.mfp-bg {
-	opacity: 0;
+	opacity: 5;
 	-moz-transition: all 0.3s ease-in-out;
 	-o-transition: all 0.3s ease-in-out;
 	-webkit-transition: all 0.3s ease-in-out;
